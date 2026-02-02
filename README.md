@@ -1,28 +1,21 @@
 # 👋 Hi, I'm Nour Alyan  
 
 🎓 Data Science & Artificial Intelligence Student  
-💻 Currently learning: **C++ | HTML | CSS | JavaScript | Python**  
-🚀 Passionate about building scalable digital platforms and creative AI projects  
+💻 Learning: C++ | HTML | CSS | JavaScript | Python  
 
 ---
 
 ## 🔗 Connect with me
 - 📸 [Instagram](https://www.instagram.com/yan_nour?igsh=MWxvZzNpaTZqdHcwaQ==)  
-- 📢 [Telegram Channel](https://t.me/theefficiencyengine)  
+- 📢 [Telegram](https://t.me/theefficiencyengine)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nour-yan-230854394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
-## 📊 GitHub Stats
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🌱 Current Goals
-- Master **C++** and **Python**  
-- Build interactive web projects with **HTML/CSS/JS**  
-- Explore AI tools and integrate them into **NourAI Hub**  
-- Share knowledge and resources with the community  
+## 🌱 Current Focus
+- Mastering programming languages (C++, Python, JS, HTML/CSS)  
+- Exploring AI tools & projects  
+- Building **NourAI Hub** as a creative digital platform  
 
 ---
 ✨ *Always learning, always building...*
