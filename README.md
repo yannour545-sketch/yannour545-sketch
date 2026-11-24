@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nour Alyan  
 
-🎓 Data Science & Artificial Intelligence Student  
+🎓 Data Science &Cyber Security Student  
 💻 Learning: C++ | HTML | CSS | JavaScript | Python  
 
 ---
