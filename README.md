@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nour Alyan  
 
-🎓 Data Science &Cyber Security Student  
-💻 Learning: C++ | HTML | CSS | JavaScript | Python  
+🎓 Cyber Security Student  
+💻 Learning: C++ | HTML | CSS | JavaScript | Python  | Networking
 
 ---
 
